@@ -1,3 +1,9 @@
+# My addition
+
+This is apps/ dir of nuttx RTOS. Teaer app is in `apps/teaer` directory,
+and that is basically the only custom thing here. Full project also needs
+working Nuttx RTOS.
+
 # Application Folder
 
 ## Contents
